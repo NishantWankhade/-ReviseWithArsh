@@ -5,3 +5,5 @@
 - [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 
 - [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
+
+- [Rotate Function](https://leetcode.com/problems/rotate-function/)
