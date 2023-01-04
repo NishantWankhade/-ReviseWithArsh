@@ -10,4 +10,6 @@
 
 5. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) - [Sol](https://github.com/NishantWankhade/ReviseWithArsh/blob/7f23895729d0eaee41b267643ff559be19f38a37/Challenge%20Company%201%20%EF%80%BA%20Microsoft/largestDivisibleSubset.cpp)
 
-6. [Course Schedule](https://leetcode.com/problems/course-schedule/) - [Sol](https://github.com/NishantWankhade/ReviseWithArsh/blob/main/Challenge%20Company%201%20%EF%80%BA%20Microsoft/courseSchedule.cpp)
+7. [Course Schedule](https://leetcode.com/problems/course-schedule/) - [Sol](https://github.com/NishantWankhade/ReviseWithArsh/blob/main/Challenge%20Company%201%20%EF%80%BA%20Microsoft/courseSchedule.cpp)
+
+10. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) - [Sol](https://github.com/NishantWankhade/ReviseWithArsh/blob/main/Challenge%20Company%201%20%EF%80%BA%20Microsoft/shortestUnsortedContinuousSubarray.cpp) 
