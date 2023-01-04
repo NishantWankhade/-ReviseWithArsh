@@ -46,7 +46,9 @@ public:
                     nodeOrder.push_back(j);
             }
         }
-
+        
+        // If size of nodeOrder is not equal to numCourses then there may be some courses 
+        // that are inconsistent
         return nodeOrder.size() == numCourses;
     }
 };
