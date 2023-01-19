@@ -22,6 +22,6 @@
 
 ## [Goldman Sachs](Goldman%20Sachs/)
 
-1. [Minimum Consecutive Cards to Pick up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/) - [Sol](Goldman%20Sachs/minimumConsecutivePickUp.cpp)
+3. [Minimum Consecutive Cards to Pick up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/) - [Sol](Goldman%20Sachs/minimumConsecutivePickUp.cpp)
 
-2. [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) - [Sol](Goldman%20Sachs/factorialTrailingZero.cpp)
+6. [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) - [Sol](Goldman%20Sachs/factorialTrailingZero.cpp)
