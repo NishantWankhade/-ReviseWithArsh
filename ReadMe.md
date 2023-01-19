@@ -1,6 +1,7 @@
 # Question List
 
 ## [Microsoft](Microsoft)
+
 1. [Evaluate Reverse Polish Expression](https://leetcode.com/problems/evaluate-reverse-polish-notation/) - [Sol](Microsoft/evaluateReversePolishNotation.cpp)
 
 2. [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) - [Sol1](Microsoft/combinationSumIII_v1.cpp) [Sol2](Microsoft/combinationSumIII_v2.cpp)
@@ -11,17 +12,16 @@
 
 5. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) - [Sol](Microsoft/largestDivisibleSubset.cpp)
 
-7. [Course Schedule](https://leetcode.com/problems/course-schedule/) - [Sol](Microsoft/courseSchedule.cpp)
+6. [Course Schedule](https://leetcode.com/problems/course-schedule/) - [Sol](Microsoft/courseSchedule.cpp)
 
-10. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) - [Sol](Microsoft/shortestUnsortedContinuousSubarray.cpp) 
+7. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) - [Sol](Microsoft/shortestUnsortedContinuousSubarray.cpp)
 
-11. [Number of ways to arrive at destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination) - [Sol](Microsoft/numberOfWaysToArriveAtDestination.cpp)
+8. [Number of ways to arrive at destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination) - [Sol](Microsoft/numberOfWaysToArriveAtDestination.cpp)
 
-14. [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible) - [Sol](Microsoft/minimumDeletionstoMakeArrayDivisible.cpp)
-
+9. [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible) - [Sol](Microsoft/minimumDeletionstoMakeArrayDivisible.cpp)
 
 ## [Goldman Sachs](Goldman%20Sachs/)
 
 1. [Minimum Consecutive Cards to Pick up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/) - [Sol](Goldman%20Sachs/minimumConsecutivePickUp.cpp)
 
-2. [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) - [Sol](Goldman%20Sachs\factorialTrailingZero.cpp)
+2. [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) - [Sol](Goldman%20Sachs/factorialTrailingZero.cpp)
