@@ -26,4 +26,4 @@
 
 6. [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) - [Sol](Goldman%20Sachs/factorialTrailingZero.cpp)
 
-12. [All Elements of Binary Search Tree]()
+12. [All Elements of Binary Search Tree](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/)- [Sol](Goldman%20Sachs\allElementsOfBinarySearchTree.cpp)
