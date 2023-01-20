@@ -25,3 +25,5 @@
 3. [Minimum Consecutive Cards to Pick up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/) - [Sol](Goldman%20Sachs/minimumConsecutivePickUp.cpp)
 
 6. [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) - [Sol](Goldman%20Sachs/factorialTrailingZero.cpp)
+
+12. [All Elements of Binary Search Tree]()
